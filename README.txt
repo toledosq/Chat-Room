@@ -1,13 +1,11 @@
-The executable is located at "dist/main/main.exe"
-
 Starting a chat server:
-1. Launch "main.exe" -or- main.py from the command line
+1. Launch main.py from the command line
 2. Select "Create Chat Room"
 3. A cmd window will open and log connections until closed
 4. Upon closing the cmd window, the server will close
 
 Joining an existing server:
-1. Launch "main.exe" -or- main.py from the command line
+1. Launch main.py from the command line
 2. Select "Join a Chat Room"
 3. A cmd window will open and ask for a hostname (IP addr or localhost)
 4. Once connected, enter a username to begin
